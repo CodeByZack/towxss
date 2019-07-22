@@ -15,7 +15,7 @@
 
 用命令行进入到小程序的根目录,towxss启动。
 
-![如何使用](./gif/howtouse.gif)
+![如何使用](https://raw.githubusercontent.com/CodeByZack/towxss/master/gif/howtouse.gif)
 
 ##其他说明
 
