@@ -1,0 +1,20 @@
+{
+  "name": "towxss",
+  "version": "1.0.0",
+  "description": "use less in miniprogram",
+  "bin": {
+    "towxss": "./bin/index.js"
+  },
+  "keywords": [
+    "less",
+    "wxss"
+  ],
+  "author": "zack",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "less": "^3.9.0",
+    "node-watch": "^0.6.2",
+    "watch": "^1.0.2"
+  }
+}
